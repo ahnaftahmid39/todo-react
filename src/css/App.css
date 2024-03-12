@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+  /* min-height: 100vh; */
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+table {
+  overflow-y: auto;
+}
